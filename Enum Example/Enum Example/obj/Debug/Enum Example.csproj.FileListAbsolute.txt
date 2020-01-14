@@ -1,0 +1,5 @@
+G:\C# Project\Enum Example\Enum Example\bin\Debug\Enum Example.exe.config
+G:\C# Project\Enum Example\Enum Example\bin\Debug\Enum Example.exe
+G:\C# Project\Enum Example\Enum Example\bin\Debug\Enum Example.pdb
+G:\C# Project\Enum Example\Enum Example\obj\Debug\Enum Example.exe
+G:\C# Project\Enum Example\Enum Example\obj\Debug\Enum Example.pdb

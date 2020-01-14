@@ -1,0 +1,5 @@
+G:\C# Project\Foreach Loop\Foreach Loop\bin\Debug\Foreach Loop.exe.config
+G:\C# Project\Foreach Loop\Foreach Loop\bin\Debug\Foreach Loop.exe
+G:\C# Project\Foreach Loop\Foreach Loop\bin\Debug\Foreach Loop.pdb
+G:\C# Project\Foreach Loop\Foreach Loop\obj\Debug\Foreach Loop.exe
+G:\C# Project\Foreach Loop\Foreach Loop\obj\Debug\Foreach Loop.pdb

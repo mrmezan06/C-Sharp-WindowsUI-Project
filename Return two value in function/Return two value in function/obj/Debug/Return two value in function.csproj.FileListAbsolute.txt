@@ -1,0 +1,5 @@
+G:\C# Project\Return two value in function\Return two value in function\bin\Debug\Return two value in function.exe.config
+G:\C# Project\Return two value in function\Return two value in function\bin\Debug\Return two value in function.exe
+G:\C# Project\Return two value in function\Return two value in function\bin\Debug\Return two value in function.pdb
+G:\C# Project\Return two value in function\Return two value in function\obj\Debug\Return two value in function.exe
+G:\C# Project\Return two value in function\Return two value in function\obj\Debug\Return two value in function.pdb

@@ -1,0 +1,5 @@
+G:\C# Project\While Loop\While Loop\bin\Debug\While Loop.exe.config
+G:\C# Project\While Loop\While Loop\bin\Debug\While Loop.exe
+G:\C# Project\While Loop\While Loop\bin\Debug\While Loop.pdb
+G:\C# Project\While Loop\While Loop\obj\Debug\While Loop.exe
+G:\C# Project\While Loop\While Loop\obj\Debug\While Loop.pdb

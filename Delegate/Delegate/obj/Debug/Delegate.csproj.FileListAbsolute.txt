@@ -1,0 +1,6 @@
+G:\C# Project\Delegate\Delegate\bin\Debug\Delegate.exe.config
+G:\C# Project\Delegate\Delegate\bin\Debug\Delegate.exe
+G:\C# Project\Delegate\Delegate\bin\Debug\Delegate.pdb
+G:\C# Project\Delegate\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+G:\C# Project\Delegate\Delegate\obj\Debug\Delegate.exe
+G:\C# Project\Delegate\Delegate\obj\Debug\Delegate.pdb

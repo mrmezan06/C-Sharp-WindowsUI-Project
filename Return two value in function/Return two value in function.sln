@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return two value in function", "Return two value in function\Return two value in function.csproj", "{F286BA83-E80A-441D-8A6E-246054BF4DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F286BA83-E80A-441D-8A6E-246054BF4DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F286BA83-E80A-441D-8A6E-246054BF4DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F286BA83-E80A-441D-8A6E-246054BF4DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F286BA83-E80A-441D-8A6E-246054BF4DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

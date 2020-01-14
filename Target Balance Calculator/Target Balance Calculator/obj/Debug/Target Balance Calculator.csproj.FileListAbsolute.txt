@@ -1,0 +1,5 @@
+G:\C# Project\Target Balance Calculator\Target Balance Calculator\bin\Debug\Target Balance Calculator.exe.config
+G:\C# Project\Target Balance Calculator\Target Balance Calculator\bin\Debug\Target Balance Calculator.exe
+G:\C# Project\Target Balance Calculator\Target Balance Calculator\bin\Debug\Target Balance Calculator.pdb
+G:\C# Project\Target Balance Calculator\Target Balance Calculator\obj\Debug\Target Balance Calculator.exe
+G:\C# Project\Target Balance Calculator\Target Balance Calculator\obj\Debug\Target Balance Calculator.pdb

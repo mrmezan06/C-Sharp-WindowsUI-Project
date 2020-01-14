@@ -1,0 +1,6 @@
+G:\C# Project\Defining Class\Defining Class\bin\Debug\Defining Class.exe.config
+G:\C# Project\Defining Class\Defining Class\bin\Debug\Defining Class.exe
+G:\C# Project\Defining Class\Defining Class\bin\Debug\Defining Class.pdb
+G:\C# Project\Defining Class\Defining Class\obj\Debug\Defining Class.csprojResolveAssemblyReference.cache
+G:\C# Project\Defining Class\Defining Class\obj\Debug\Defining Class.exe
+G:\C# Project\Defining Class\Defining Class\obj\Debug\Defining Class.pdb

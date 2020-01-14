@@ -1,0 +1,6 @@
+G:\C# Project\Class App\Class App\bin\Debug\Class App.exe.config
+G:\C# Project\Class App\Class App\obj\Debug\Class App.csprojResolveAssemblyReference.cache
+G:\C# Project\Class App\Class App\bin\Debug\Class App.exe
+G:\C# Project\Class App\Class App\bin\Debug\Class App.pdb
+G:\C# Project\Class App\Class App\obj\Debug\Class App.exe
+G:\C# Project\Class App\Class App\obj\Debug\Class App.pdb

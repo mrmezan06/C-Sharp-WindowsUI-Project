@@ -1,0 +1,5 @@
+G:\C# Project\For Loop\For Loop\bin\Debug\For Loop.exe.config
+G:\C# Project\For Loop\For Loop\bin\Debug\For Loop.exe
+G:\C# Project\For Loop\For Loop\bin\Debug\For Loop.pdb
+G:\C# Project\For Loop\For Loop\obj\Debug\For Loop.exe
+G:\C# Project\For Loop\For Loop\obj\Debug\For Loop.pdb

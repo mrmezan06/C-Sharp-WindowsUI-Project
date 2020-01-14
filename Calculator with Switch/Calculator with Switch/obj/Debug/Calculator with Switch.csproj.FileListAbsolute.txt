@@ -1,0 +1,6 @@
+G:\C# Project\Calculator with Switch\Calculator with Switch\bin\Debug\Calculator with Switch.exe.config
+G:\C# Project\Calculator with Switch\Calculator with Switch\bin\Debug\Calculator with Switch.exe
+G:\C# Project\Calculator with Switch\Calculator with Switch\bin\Debug\Calculator with Switch.pdb
+G:\C# Project\Calculator with Switch\Calculator with Switch\obj\Debug\Calculator with Switch.csprojResolveAssemblyReference.cache
+G:\C# Project\Calculator with Switch\Calculator with Switch\obj\Debug\Calculator with Switch.exe
+G:\C# Project\Calculator with Switch\Calculator with Switch\obj\Debug\Calculator with Switch.pdb

@@ -1,0 +1,13 @@
+G:\C# Project\OOP Concept 2\OOP Concept 2\bin\Debug\OOP Concept 2.exe.config
+G:\C# Project\OOP Concept 2\OOP Concept 2\bin\Debug\OOP Concept 2.exe
+G:\C# Project\OOP Concept 2\OOP Concept 2\bin\Debug\OOP Concept 2.pdb
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\OOP Concept 2.csprojResolveAssemblyReference.cache
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\MainWindow.baml
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\MainWindow.g.cs
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\App.g.cs
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\OOP Concept 2_MarkupCompile.cache
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\OOP Concept 2.g.resources
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\OOP_Concept_2.Properties.Resources.resources
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\OOP Concept 2.csproj.GenerateResource.Cache
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\OOP Concept 2.exe
+G:\C# Project\OOP Concept 2\OOP Concept 2\obj\Debug\OOP Concept 2.pdb

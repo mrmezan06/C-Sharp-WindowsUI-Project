@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach Loop", "Foreach Loop\Foreach Loop.csproj", "{E0DF271A-DE4D-4EE4-AEDF-3ABF4A9054CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0DF271A-DE4D-4EE4-AEDF-3ABF4A9054CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DF271A-DE4D-4EE4-AEDF-3ABF4A9054CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DF271A-DE4D-4EE4-AEDF-3ABF4A9054CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DF271A-DE4D-4EE4-AEDF-3ABF4A9054CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

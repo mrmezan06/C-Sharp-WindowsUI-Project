@@ -1,0 +1,5 @@
+G:\C# Project\Params Example in function\Params Example in function\bin\Debug\Params Example in function.exe.config
+G:\C# Project\Params Example in function\Params Example in function\bin\Debug\Params Example in function.exe
+G:\C# Project\Params Example in function\Params Example in function\bin\Debug\Params Example in function.pdb
+G:\C# Project\Params Example in function\Params Example in function\obj\Debug\Params Example in function.exe
+G:\C# Project\Params Example in function\Params Example in function\obj\Debug\Params Example in function.pdb

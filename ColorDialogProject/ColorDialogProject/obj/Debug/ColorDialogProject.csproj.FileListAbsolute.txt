@@ -1,0 +1,9 @@
+G:\C# Project\ColorDialogProject\ColorDialogProject\bin\Debug\ColorDialogProject.exe.config
+G:\C# Project\ColorDialogProject\ColorDialogProject\bin\Debug\ColorDialogProject.exe
+G:\C# Project\ColorDialogProject\ColorDialogProject\bin\Debug\ColorDialogProject.pdb
+G:\C# Project\ColorDialogProject\ColorDialogProject\obj\Debug\ColorDialogProject.csprojResolveAssemblyReference.cache
+G:\C# Project\ColorDialogProject\ColorDialogProject\obj\Debug\ColorDialogProject.Form1.resources
+G:\C# Project\ColorDialogProject\ColorDialogProject\obj\Debug\ColorDialogProject.Properties.Resources.resources
+G:\C# Project\ColorDialogProject\ColorDialogProject\obj\Debug\ColorDialogProject.csproj.GenerateResource.Cache
+G:\C# Project\ColorDialogProject\ColorDialogProject\obj\Debug\ColorDialogProject.exe
+G:\C# Project\ColorDialogProject\ColorDialogProject\obj\Debug\ColorDialogProject.pdb

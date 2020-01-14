@@ -1,0 +1,5 @@
+G:\C# Project\Splitter\Splitter\bin\Debug\Splitter.exe.config
+G:\C# Project\Splitter\Splitter\bin\Debug\Splitter.exe
+G:\C# Project\Splitter\Splitter\bin\Debug\Splitter.pdb
+G:\C# Project\Splitter\Splitter\obj\Debug\Splitter.exe
+G:\C# Project\Splitter\Splitter\obj\Debug\Splitter.pdb

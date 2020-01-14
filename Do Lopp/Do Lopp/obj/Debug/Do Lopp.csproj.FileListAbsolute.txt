@@ -1,0 +1,5 @@
+G:\C# Project\Do Lopp\Do Lopp\bin\Debug\Do Lopp.exe.config
+G:\C# Project\Do Lopp\Do Lopp\bin\Debug\Do Lopp.exe
+G:\C# Project\Do Lopp\Do Lopp\bin\Debug\Do Lopp.pdb
+G:\C# Project\Do Lopp\Do Lopp\obj\Debug\Do Lopp.exe
+G:\C# Project\Do Lopp\Do Lopp\obj\Debug\Do Lopp.pdb

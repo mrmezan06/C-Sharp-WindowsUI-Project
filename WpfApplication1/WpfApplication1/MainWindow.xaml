@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="600">
+    <Grid>
+        <Button x:Name="btn1" Content="Click Me" HorizontalAlignment="Left" Margin="250,101,0,0" VerticalAlignment="Top" Width="104" Height="49" Click="btn1_Click"/>
+
+    </Grid>
+</Window>
